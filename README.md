@@ -114,10 +114,3 @@ silent corruption is impossible to miss.
 
 **Limit:** dataShards + parityShards ≤ 128 (Cauchy construction constraint)
 
-## Real-World Uses of This Algorithm
-- Amazon S3, Google Cloud Storage, Backblaze B2
-- HDFS (Hadoop Distributed File System)
-- Blu-ray discs and DVDs (scratch recovery)
-- QR codes (partial occlusion recovery)
-- Voyager space probe (deep space transmission errors)
-- RAID-6 storage arrays
